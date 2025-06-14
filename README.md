@@ -59,8 +59,8 @@ Each project repository contains:
 
 **Manthan Verma**  
 Diploma in Computer Science and Engineering 
-Email: manthankivines@gmail.com  
-GitHub: [@ManthanVerma](https://github.com/manthanverma7)
+
+Email: manthankivines@gmail.com  manthan151106@gmail.com
 
 ---
 
