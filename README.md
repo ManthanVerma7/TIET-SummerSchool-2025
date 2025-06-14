@@ -32,9 +32,9 @@ This page acts as a **CENTRAL INDEX** to access all of them easily.
 
 ## 📂 Project List
 
-| No. | Project Name                            | Description                                      | Link to Repository |
-|-----|-----------------------------------------|--------------------------------------------------|--------------------|
-| 1   | TIET-SS-MiniProject-01-PythonAssignment | Basic Python Programs for Practice and Learning  |    [ View Repository ](https://github.com/ManthanVerma7/TIET-SS-MiniProject-01-PythonAssignment) |
+| No. | Project Name                            | Description                                      |Link to Repository|
+|-----|-----------------------------------------|--------------------------------------------------|------------------|
+| 1   | TIET-SS-MiniProject-01-PythonAssignment | Basic Python Programs for Practice and Learning  |[ View Repository ](https://github.com/ManthanVerma7/TIET-SS-MiniProject-01-PythonAssignment) |
 
 > 🔄 More projects will be added here according to the progression.
 
