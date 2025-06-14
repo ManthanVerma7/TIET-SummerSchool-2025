@@ -1,5 +1,5 @@
 # TIET-SummerSchool-2025
-# 🌟 Summer School on Machine Learning & Deep Learning 2025 – Project Showcase
+# 🌟 Summer School on Machine Learning & Deep Learning – Project Showcase
 
 Welcome to my Official Repository for the **Machine Learning & Deep Learning Summer School 2025**.  
 This Master Repository contains a list of all the projects that I've created during the Summer School to practice and build my skills in Machine Learning and Deep Learning.
