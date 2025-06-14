@@ -54,7 +54,7 @@ Each project repository contains:
 ## 🧑‍💻 Author
 
 **Manthan Verma**  
-Diploma in Computer Science and Engineering 
+Diploma in Computer Science and Engineering, Thapar Polythecnic College
 
 ---
 
