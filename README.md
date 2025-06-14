@@ -59,16 +59,16 @@ Each project repository contains:
 
 **Manthan Verma**  
 Diploma in Computer Science and Engineering 
-Email: manthankivines.com  
-GitHub: [@manthanverma](https://github.com/manthanverma7)
+Email: manthankivines@gmail.com  
+GitHub: [@ManthanVerma](https://github.com/manthanverma7)
 
 ---
 
 ## ⭐ A Note to Recruiters
 
 If you're a recruiter viewing this, thank you for taking the time to visit my GitHub!  
-This repository is designed to demonstrate my practical experience and continuous learning in AI & ML.
+This repository is designed to demonstrate my practical experience and continuous learning in AI & ML during TIET Summer School 2025.
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-link) or explore pinned projects on my profile.
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/manthanverma) or explore pinned projects on my profile.
 
 ---
