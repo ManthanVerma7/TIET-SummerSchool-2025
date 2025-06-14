@@ -59,7 +59,6 @@ Each project repository contains:
 
 **Manthan Verma**  
 Diploma in Computer Science and Engineering 
-Email: manthan151106@gmail.com
 
 ---
 
