@@ -32,13 +32,9 @@ This page acts as a **CENTRAL INDEX** to access all of them easily.
 
 ## 📂 Project List
 
-| No. | Project Name                           | Description                              | Link to Repo |
-|-----|----------------------------------------|------------------------------------------|--------------|
-| 1   | Linear Regression from Scratch         | Using only NumPy, no sklearn             | [View Repo](https://github.com/yourusername/mlcamp-01-linear-regression) |
-| 2   | Decision Trees                         | Implemented using Gini & Entropy         | [View Repo](https://github.com/yourusername/mlcamp-02-decision-tree) |
-| 3   | CNN Image Classifier                   | Binary classifier for Cats vs Dogs       | [View Repo](https://github.com/yourusername/mlcamp-03-cnn-classifier) |
-| 4   | K-Means Clustering                     | Customer segmentation example            | [View Repo](https://github.com/yourusername/mlcamp-04-kmeans-clustering) |
-| 5   | Sentiment Analysis                     | Using NLP & Logistic Regression          | [View Repo](https://github.com/yourusername/mlcamp-05-sentiment-analysis) |
+| No. | Project Name                            | Description                                      |  Link  to  Repo  |
+|-----|-----------------------------------------|--------------------------------------------------|------------------|
+| 1   | TIET-SS-MiniProject-01-PythonAssignment | Basic Python Programs for Practice and Learning  | [View Repository]([https://github.com/yourusername/mlcamp-01-linear-regression](https://github.com/ManthanVerma7/TIET-SS-MiniProject-01-PythonAssignment)) |
 
 > 🔄 More projects will be added here as the camp progresses.
 
