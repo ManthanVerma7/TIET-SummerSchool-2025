@@ -36,7 +36,7 @@ This page acts as a **CENTRAL INDEX** to access all of them easily.
 |-----|-----------------------------------------|--------------------------------------------------|--------------------|
 | 1   | TIET-SS-MiniProject-01-PythonAssignment | Basic Python Programs for Practice and Learning  | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-01-PythonAssignment) |
 
-> 🔄 More projects will be added here as the camp progresses.
+> 🔄 More projects will be added here according to the progression.
 
 ---
 
