@@ -32,9 +32,14 @@ This Master Repository contains a list of all the projects that I've created dur
 
 ## 📂 Project List
 
-| No. | Project Name                            | Description                                      |Link to Repository|
-|-----|-----------------------------------------|--------------------------------------------------|------------------|
-| 1   | TIET-SS-MiniProject-01-PythonAssignment | Basic Python Programs for Practice and Learning  |[ View Repository ](https://github.com/ManthanVerma7/TIET-SS-MiniProject-01-PythonAssignment) |
+| No. | Project Name                             | Description                                      |Link to Repository|
+|-----|------------------------------------------|--------------------------------------------------|------------------|
+| 1   | TIET-SS-MiniProject-01-PythonAssignment  | Basic Python Programs for Practice and Learning  |[ View Repository ](https://github.com/ManthanVerma7/TIET-SS-MiniProject-01-PythonAssignment) |
+| 2   | TIET-SS-MiniProject-02-ChallengeQuestions| Sort Mixed List                                  | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-02-ChallengeQuestion) |
+| 3   |                                          |                                                  | [View Repository]() |
+| 4   |                                          |                                                  | [View Repository]() |
+| 5   |                                          |                                                  | [View Repository]() |
+
 
 > 🔄 More projects will be added here according to the progression.
 
