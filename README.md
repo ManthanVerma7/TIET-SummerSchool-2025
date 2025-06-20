@@ -38,7 +38,7 @@ This Master Repository contains a list of all the projects that I've created dur
 | 2   | TIET-SS-MiniProject-02-ChallengeQuestions     | Sort Mixed List                                  | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-02-ChallengeQuestion) |
 | 3   | TIET-SS-MiniProject-03-SubsetSelectionProblem |                                                  | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-03-SubsetSelectionProblem) |
 | 4   | v0-Modern-Portfolio-Website                   | v0-Modern-Portfolio-Website                      | [View Repository](https://github.com/ManthanVerma7/v0_ModernPortfolioWebsite) |
-| 5   |                                               |                                                  | [View Repository]() |
+| 5   | Kaggle_TitanicMachineLearningfromDisaster     | Kaggle Competition                               | [View Repository](https://github.com/ManthanVerma7/Kaggle_TitanicMachineLearningfromDisaster) |
 
 
 > 🔄 More projects will be added here according to the progression.
