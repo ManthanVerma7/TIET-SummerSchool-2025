@@ -37,8 +37,28 @@ This Master Repository contains a list of all the projects that I've created dur
 | 1   | TIET-SS-MiniProject-01-PythonAssignment       | Basic Python Programs for Practice and Learning  | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-01-PythonAssignment) |
 | 2   | TIET-SS-MiniProject-02-ChallengeQuestions     | Sort Mixed List                                  | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-02-ChallengeQuestion) |
 | 3   | TIET-SS-MiniProject-03-SubsetSelectionProblem | Subset Selection Problem using Python            | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-03-SubsetSelectionProblem) |
-| 4   | v0-Modern-Portfolio-Website                   | Made Portfolio using v0-Modern-Portfolio-Website | [View Repository](https://github.com/ManthanVerma7/v0_ModernPortfolioWebsite) |
-| 5   | Kaggle_TitanicMachineLearningfromDisaster     | Kaggle Competition                               | [View Repository](https://github.com/ManthanVerma7/Kaggle_TitanicMachineLearningfromDisaster) |
+| 4   | TIET-SS-MiniProject-04-ComboFinder            | Combo Finder tool using Python                   | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-04-ComboFinder) |
+| 5   | TIET-SS-MiniProject-05-TextFileConversion     | Text to File Conversion                          | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-05-TextFileConversion) |
+| 6   | TIET-SS-MiniProject-06-AdvancePython          | Advance Python Questions                         | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-06-AdvancePython) |
+| 7   | TIET-SS-MiniProject-07-MarksAdding            | Marks Adding Project                             | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-07-MarksAdding) |
+| 8   | TIET-SS-MiniProject-08-R_ProgrammingAssignment| R Programming Assignment                         | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-08-R_ProgrammingAssignment) |
+| 9   | TIET-SS-MiniProject-09-EDA                    | Performing EDA                                   | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-09-EDA) |
+| 10  | TIET-SS-MiniProject-10-ImagetoTexttoAudio     | Image to Text to Audio Conversion                | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-10-ImagetoTexttoAudio) |
+| 11  | TIET-SS-MiniProject-11-WebCrawler             | Web Crawler using Python                         | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-11-WebCrawler) |
+| 12  | TIET-SS-MiniProject-12-AudiotoText            | Audio to Text Conversion                         | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-12-AudiotoText) |
+| 13  | TIET-SS-MiniProject-13-PDF_Splitter           | PDF Splitter                                     | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-13-PDF_Splitter) |
+| 14  | TIET-SS-MiniProject-14-PDF_Merger             | PDF Merger                                       | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-14-PDF_Merger) |
+| 15  | TIET-SS-MiniProject-15-PlagiarismChecker      | Plagiarism Checker                               | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-15-PlagiarismChecker) |
+| 16  | TIET-SS-MiniProject-16-QRCodeGenerator        | QR Code Generator                                | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-16-QRCodeGenerator) |
+| 17  | TIET-SS-MiniProject-17-HangmanGame            | Hangman Game using Python                        | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-17-HangmanGame) |
+| 18  | TIET-SS-MiniProject-18-GoogleImageDownloader  | Google Image Downloader                          | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-18-GoogleImageDownloader) |
+| 19  | TIET-SS-MiniProject-19-ImagetoText-OCR        | Image to Text-OCR                                | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-19-ImagetoText-OCR) |
+| 20  | TIET-SS-MiniProject-20-TweetsSearch-Download  | Tweets Search Download                           | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-20-TweetsSearch-Download) |
+| *   | TIET-SS-MiniProject-14-PDF_Merger             | PDF Merger                                       | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-14-PDF_Merger) |
+| *   | TIET-SS-MiniProject-15-PlagiarismChecker      | Plagiarism Checker                               | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-15-PlagiarismChecker) |
+| *   | TIET-SS-MiniProject-16-QRCodeGenerator        | QR Code Generator                                | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-16-QRCodeGenerator) |
+| *   | v0-Modern-Portfolio-Website                   | Made Portfolio using v0-Modern-Portfolio-Website | [View Repository](https://github.com/ManthanVerma7/v0_ModernPortfolioWebsite) |
+| *   | Kaggle_TitanicMachineLearningfromDisaster     | Kaggle Competition                               | [View Repository](https://github.com/ManthanVerma7/Kaggle_TitanicMachineLearningfromDisaster) |
 
 
 > 🔄 More projects will be added here according to the progression.
