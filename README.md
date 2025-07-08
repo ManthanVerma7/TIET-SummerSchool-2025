@@ -54,11 +54,36 @@ This Master Repository contains a list of all the projects that I've created dur
 | 18  | TIET-SS-MiniProject-18-GoogleImageDownloader  | Google Image Downloader                          | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-18-GoogleImageDownloader) |
 | 19  | TIET-SS-MiniProject-19-ImagetoText-OCR        | Image to Text-OCR                                | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-19-ImagetoText-OCR) |
 | 20  | TIET-SS-MiniProject-20-TweetsSearch-Download  | Tweets Search Download                           | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-20-TweetsSearch-Download) |
-| *   | TIET-SS-MiniProject-14-PDF_Merger             | PDF Merger                                       | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-14-PDF_Merger) |
-| *   | TIET-SS-MiniProject-15-PlagiarismChecker      | Plagiarism Checker                               | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-15-PlagiarismChecker) |
-| *   | TIET-SS-MiniProject-16-QRCodeGenerator        | QR Code Generator                                | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-16-QRCodeGenerator) |
-| *   | v0-Modern-Portfolio-Website                   | Made Portfolio using v0-Modern-Portfolio-Website | [View Repository](https://github.com/ManthanVerma7/v0_ModernPortfolioWebsite) |
-| *   | Kaggle_TitanicMachineLearningfromDisaster     | Kaggle Competition                               | [View Repository](https://github.com/ManthanVerma7/Kaggle_TitanicMachineLearningfromDisaster) |
+| 21  | TIET-SS-MiniProject-21-VideotoAudioConversion | Video to Audio Conversion                        | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-21-VideotoAudioConversion) |
+| 22  | TIET-SS-MiniProject-22-CosineSimilarity       | Cosine Similarity                                | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-22-CosineSimilarity) |
+| 23  | TIET-SS-MiniProject-23-ColorToGreyConversion  | Color To Grey Conversion using OpenCV            | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-23-ColorToGreyConversion) |
+| 24  | TIET-SS-MiniProject-24-Resizeto50Percent      | Resizing image to 50 Percent                     | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-24-Resizeto50Percent) |
+| 25  | TIET-SS-MiniProject-25-ColoredVideotoGrey     | Converting Colored Video to Grey                 | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-25-ColoredVideotoGrey) |
+| 26  | TIET-SS-MiniProject-26-ResizeVideoto50Percent | Resizing video to 50 Percent                     | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-26-ResizeVideoto50Percent) |
+| 27  | Tinkercad Project-1                           | Tinkercad Project-1                              | [View Repository](https://github.com/ManthanVerma7/Tinkercad-Project-1) |
+| 28  | Tinkercad-Project-2                           | Tinkercad Project-2                              | [View Repository](https://github.com/ManthanVerma7/Tinkercad-Project-2) |
+| 29  | Tinkercad-Project-3                           | Tinkercad Project-3                              | [View Repository](https://github.com/ManthanVerma7/Tinkercad-Project-3) |
+| 30  | Tinkercad-Project-4                           | Tinkercad Project-4                              | [View Repository](https://github.com/ManthanVerma7/Tinkercad-Project-4) |
+| 31  | ML-Deployment-With-HumbleCoders               | Deployement of ML Model on Android App           | [View Repository](https://github.com/ManthanVerma7/ML-Deployment-With-HumbleCoders) |
+| 32  | Time Series                                   | Time Series Projects                             | [View Repository](https://github.com/ManthanVerma7/Calculator) |
+| 33  | Calculator                                    | Calculator App made using Tkinter                | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-19-ImagetoText-OCR) |
+| 34  | ANN_FromScratch                               | ANN Project from Scratch                         | [View Repository](https://github.com/ManthanVerma7/ANN_FromScratch) |
+| 35  | LangChain-ChatwithYourData                    | LangChain Model model made using Neural Networks | [View Repository](https://github.com/ManthanVerma7/LangChain-ChatwithYourData) |
+| 36  | Flutter-ImageEditor                           | Image Editing software made using Flutter        | [View Repository](https://github.com/ManthanVerma7/Flutter-ImageEditor) |
+| 37  | OpenCV-CarDetection                           | Detecting Cars using OpenCV                      | [View Repository](https://github.com/ManthanVerma7/OpenCV-CarDetection) |
+| 38  | OpenCV-PedestrianDetection                    | Pedestrian Detection using OpenCV                | [View Repository](https://github.com/ManthanVerma7/OpenCV-PedestrianDetection) |
+| 39  | OpenCV-FaceDetection                          | Detecting Face using OpenCV                      | [View Repository](https://github.com/ManthanVerma7/OpenCV-FaceDetection) |
+| 40  | OpenCV-LiveSketcher                           | Live Sketcher using OpenCV                       | [View Repository](https://github.com/ManthanVerma7/OpenCV-LiveSketcher) |
+| 41  | OpenCV-TransformingImage                      | Transforming Images using OpenCV                 | [View Repository](https://github.com/ManthanVerma7/OpenCV-TransformingImages) |
+| 42  | OpenCV-DrawingonImages                        | Drawing on Images using OpenCV                   | [View Repository](https://github.com/ManthanVerma7/OpenCV-DrawingonImages) |
+| 43  | OpenCV-ColorSpaces                            | Identifying Color Spaces using OpenCV            | [View Repository](https://github.com/ManthanVerma7/OpenCV-ColorSpaces) |
+| 44  | OpenCV-DisplayingImages                       | Displaying Images using OpenCV                   | [View Repository](https://github.com/ManthanVerma7/OpenCV-DisplayingImages) |
+| 45  | QR-Code-Generator-2.0                         | Advanced QR Code Generator                       | [View Repository](https://github.com/ManthanVerma7/QR-Code-Generator-2.0) |
+| 46  | Lowercase-to-Uppercase                        | Lowercase-to-Uppercase                           | [View Repository](https://github.com/ManthanVerma7/Lowercase-to-Uppercase) |
+| *   | Flutter-ImageEditor                           | Image Editing software made using Flutter        | [View Repository](https://github.com/ManthanVerma7/Flutter-ImageEditor) |
+| *   | OpenCV-CarDetection                           | Detecting Cars using OpenCV                      | [View Repository](https://github.com/ManthanVerma7/OpenCV-CarDetection) |
+| 49  | v0-Modern-Portfolio-Website                   | Made Portfolio using v0-Modern-Portfolio-Website | [View Repository](https://github.com/ManthanVerma7/v0_ModernPortfolioWebsite) |
+| 50  | Kaggle_TitanicMachineLearningfromDisaster     | Kaggle Competition                               | [View Repository](https://github.com/ManthanVerma7/Kaggle_TitanicMachineLearningfromDisaster) |
 
 
 > 🔄 More projects will be added here according to the progression.
