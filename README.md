@@ -105,6 +105,7 @@ Each project repository contains:
 
 **Manthan Verma**  
 Diploma in Computer Science and Engineering, Thapar Polythecnic College
+
 Current year: 2025
 
 ---
