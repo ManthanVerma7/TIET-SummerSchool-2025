@@ -34,7 +34,7 @@ This Master Repository contains a list of all the projects that I've created dur
 
 | No. | Project Name                                  | Description                                      |Link to Repository|
 |-----|-----------------------------------------------|--------------------------------------------------|------------------|
-| 1   | TIET-SS-MiniProject-01-PythonAssignment       | Basic Python Programs for Practice and Learning  |[ View Repository ](https://github.com/ManthanVerma7/TIET-SS-MiniProject-01-PythonAssignment) |
+| 1   | TIET-SS-MiniProject-01-PythonAssignment       | Basic Python Programs for Practice and Learning  | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-01-PythonAssignment) |
 | 2   | TIET-SS-MiniProject-02-ChallengeQuestions     | Sort Mixed List                                  | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-02-ChallengeQuestion) |
 | 3   | TIET-SS-MiniProject-03-SubsetSelectionProblem |                                                  | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-03-SubsetSelectionProblem) |
 | 4   | v0-Modern-Portfolio-Website                   | v0-Modern-Portfolio-Website                      | [View Repository](https://github.com/ManthanVerma7/v0_ModernPortfolioWebsite) |
