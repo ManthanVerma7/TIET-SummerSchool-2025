@@ -13,7 +13,7 @@ This Master Repository contains a list of all the projects that I've created dur
 
 - 📅 Duration: 9th June to 18th July 2025
 - 🏫 Organized by: Department of Computer Science and Engineering, TIET, Patiala, Punjab - 147004
-- 🧑‍🏫 Coordinators: Dr. Prashant Singh Rana, Dr. Anjula Mehto, Dr. Suresh Raikwar and Dr. Saif Nalband
+- 🧑‍🏫 Coordinator: Dr. Prashant Singh Rana
 
 ## 🧠 Focus Areas:
   - Python and R programming languages 
