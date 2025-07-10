@@ -84,6 +84,7 @@ This Master Repository contains a list of all the projects that I've created dur
 | 48  | Password Generator                            | Password-Generator using Python                  | [View Repository](https://github.com/ManthanVerma7/Password-Generator) |
 | 49  | v0-Modern-Portfolio-Website                   | Made Portfolio using v0-Modern-Portfolio-Website | [View Repository](https://github.com/ManthanVerma7/v0_ModernPortfolioWebsite) |
 | 50  | Kaggle_TitanicMachineLearningfromDisaster     | Kaggle Competition                               | [View Repository](https://github.com/ManthanVerma7/Kaggle_TitanicMachineLearningfromDisaster) |
+| 51  | KnowledgeGraphforRAG                          | Practiced Knowledge Graphs for RAG               | [View Repository](https://github.com/ManthanVerma7/KnowledgeGraphforRAG) |
 
 
 > 🔄 More projects will be added here according to the progression.
